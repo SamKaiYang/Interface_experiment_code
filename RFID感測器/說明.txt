@@ -1,0 +1,5 @@
+1.開啟SPI專案，路徑HT32_STD_5xxxx_FWLib_v005_2481\example\SPI\Flash
+2.下載MFRC522程式包。
+https://drive.google.com/file/d/1JZgjR-CNyxoRUF9bqQvO1Lks_TxRtTDr/view
+在專案中加入程式包內三個檔案，並且放在專案內與main.c同層的資料夾內，才能include程式。
+3.開啟專案後加入程式包內三個檔案。
